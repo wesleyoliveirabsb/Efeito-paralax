@@ -28,12 +28,16 @@ header > h1{
 header > p{
     font-size: 13px;
 }
-header  a{
+a{
     font-weight: bold;
     text-decoration: none;
     color: white;
 }
 
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
 pre{
     font-family: 'Caveat', cursive;
     font-size: 4.3em;
@@ -55,8 +59,13 @@ pre{
     background-image: url(../images/background002.jpg);
     background-attachment: fixed;
     background-size: cover;
-    color: black;
+    color: white;
 }
 #quinta{
     background-color: white;
+}
+
+footer{
+    text-align: center;
+    color: white;
 }
