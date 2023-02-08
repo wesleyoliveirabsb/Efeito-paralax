@@ -52,6 +52,10 @@ pre{
     background-attachment: fixed;
     background-size: cover;
 }
+#segunda > pre {
+    max-width: 800px;
+    background-color: rgba(0, 0, 0, 0.267);
+}
 #terceira{
     background-color: white;
 }
@@ -60,6 +64,10 @@ pre{
     background-attachment: fixed;
     background-size: cover;
     color: white;
+}
+#quarta > pre {
+    max-width: 800px;
+    background-color: rgba(0, 0, 0, 0.267);
 }
 #quinta{
     background-color: white;
